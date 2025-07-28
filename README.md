@@ -28,5 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Project Screenshot
+### Home page with recent collage images
+![Screenshot of the app home page](src/assets//Screenshot%20(68).png)
 
+### collage images creation 
 ![Screenshot of the app](src/assets/Screenshot%20(67).png)
